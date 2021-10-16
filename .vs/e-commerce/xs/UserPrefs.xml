@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{F247E545-4F14-4F7D-A33A-0CEA6A6FE04B}|Default">
   <MonoDevelop.Ide.ItemProperties.StoreMarket PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StoreMarket/appsettings.json">
     <Files>
       <File FileName="StoreMarket/Controllers/ProductController.cs" Line="4" Column="30" />
       <File FileName="StoreMarket/Startup.cs" />
@@ -9,23 +9,24 @@
       <File FileName="StoreMarket/WeatherForecast.cs" />
       <File FileName="e-commerce.sln" />
       <File FileName=".DS_Store" />
-      <File FileName="Infrastructure/Class1.cs" />
       <File FileName="Infrastructure/Migrations/ProductsContextModelSnapshot.cs" />
       <File FileName="Infrastructure/Migrations/20211015144927_initial.Designer.cs" />
       <File FileName="StoreMarket/StoreMarket.csproj" />
       <File FileName="StoreMarket/Program.cs" Line="9" Column="1" />
-      <File FileName=".gitignore" Line="1" Column="1" />
+      <File FileName=".gitignore" Line="3" Column="17" />
+      <File FileName="StoreMarket/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="StoreMarket/appsettings.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="e-commerce" expanded="True">
-            <Node name="Solution Items" expanded="True">
-              <Node name="/Users/srijit/Projects/e-commerce/.gitignore" selected="True" />
-            </Node>
+            <Node name="Solution Items" expanded="True" />
             <Node name="Core" expanded="True" />
             <Node name="Infrastructure" expanded="True" />
-            <Node name="StoreMarket" expanded="True" />
+            <Node name="StoreMarket" expanded="True">
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
