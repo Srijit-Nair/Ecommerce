@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{F247E545-4F14-4F7D-A33A-0CEA6A6FE04B}|Default">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{F247E545-4F14-4F7D-A33A-0CEA6A6FE04B}|Default">
   <MonoDevelop.Ide.ItemProperties.StoreMarket PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="StoreMarket/appsettings.json">
     <Files>
@@ -37,8 +37,6 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
 </Properties>
